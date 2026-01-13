@@ -14,3 +14,8 @@ This dashboard provides insights into salaries for various data science jobs. It
 
 <img width="874" height="537" alt="2_Project_Analysis_Chart1" src="https://github.com/user-attachments/assets/de982c25-745f-46f8-b65c-5e6ed52e06e3" />
 <img width="759" height="513" alt="2_Project_Analysis_Chart3" src="https://github.com/user-attachments/assets/66458313-14d1-4411-b9e4-5e8012020dc5" />
+
+## Nifty Stock Analysis Dashboard
+This project is an Excel-based analysis of 10 selected stocks from the NIFTY-50 index for the year 2025. The dashboard tracks annual performance, sector-wise trends, and trading volumes. It is designed to identify market leaders, laggards, and overall market sentiment using historical price data.
+[checkout_my_work_here](Project_3-Nifty_Analysis)
+![Nifty_Analysis_gif](https://github.com/user-attachments/assets/c5ea5db3-f3a0-40bb-a20c-1ab8f7a48682)
